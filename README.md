@@ -18,4 +18,3 @@ Hong, Jingwei; Han, Ping; Rasool, Abdur; Chen, Hui; Jiang, Qingshan; (2022) A Co
 
 
 
-##>[Online Published Paper](https://www.researchgate.net/publication/363655587_A_Feature-Based_Robust_Method_for_Abnormal_Contracts_Detection_in_Ethereum_Blockchain) 
